@@ -1,3 +1,3 @@
-# Predictive Model Development for Heat Load in Buildings Connected to District Heating Network
+# Predictive Model for Heat Load in Buildings Connected to District Heating Network
 
 
