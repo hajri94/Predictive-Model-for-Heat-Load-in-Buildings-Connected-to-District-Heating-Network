@@ -4,8 +4,8 @@ District Heating (DH) systems operated reliably over decades and provided a rele
 In this work we investigate the heat load patterns in one building using multi-step forecasting model based on Segmented Auto Regressive Models (S-ARX-MLR). In other word we combine the Multivariate Linear Regression models (to capture physical dependencies) with Auto Regressive models (to deal with energy storage across data segments) and Integration features (to correct model inaccuracies), into an accurate and reliable regression model used in time series forecasting
 1. [Project Overview](#Project-Overview)
 2. [Installation](#Installation)
-3. [Data sources](#data sources)
-4. [Data Preprocessing](#Data Preprocessing)
-5. [Load Assessment & Graphic Exploration](#Load Assessment & Graphic Exploration)
+3. [Data Sources](#Data-Sources)
+4. [Data Preprocessing](#Data-Preprocessing)
+5. [Load Assessment & Graphic Exploration](#Load-Assessment -&-Graphic-Exploration)
 6. [Model Evaluation To characterize The Heat Load](#Model Evaluation To characterize The Heat Load)
 7. [Model Optimization to Predict the Heat Load](#Model Optimization to Predict the Heat Load)
