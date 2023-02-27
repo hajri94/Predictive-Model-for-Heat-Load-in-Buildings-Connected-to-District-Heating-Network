@@ -6,6 +6,6 @@ In this work we investigate the heat load patterns in one building using multi-s
 2. [Installation](#Installation)
 3. [Data Sources](#Data-Sources)
 4. [Data Preprocessing](#Data-Preprocessing)
-5. [Load Assessment & Graphic Exploration](#Load-Assessment -&-Graphic-Exploration)
+5. [Load Assessment & Graphic Exploration](#Load-Assessment & Graphic-Exploration)
 6. [Model Evaluation To characterize The Heat Load](#Model Evaluation To characterize The Heat Load)
 7. [Model Optimization to Predict the Heat Load](#Model Optimization to Predict the Heat Load)
