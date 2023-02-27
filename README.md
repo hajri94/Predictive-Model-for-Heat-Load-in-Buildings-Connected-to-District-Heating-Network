@@ -14,5 +14,6 @@ In this work we investigate the heat load patterns in one building using multi-s
 8. [Conclusion](#Conclusion)
 # Installation
 We clone the github repository in Google Colaboratory ([Google-Colab](https://colab.research.google.com)). A hosted jupyter notebook service that allow us to  write and execute arbitrary code through browser.  
-###### Step1 : File ==> Open Notebook 
+## Step1 : 
+File ==> Open Notebook 
 
