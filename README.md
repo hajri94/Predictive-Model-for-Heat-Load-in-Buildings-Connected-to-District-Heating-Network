@@ -20,5 +20,8 @@ Go to **File** ==> **Open Notebook**
 <img src="https://user-images.githubusercontent.com/82321097/221584844-62e71e5a-3740-47eb-a992-b902dc987463.png" width="500" height="300">
 
 ## Step2 : 
+Paste the **URL of the github repository** you want to clone.
+
+<img src="https://user-images.githubusercontent.com/82321097/221616906-458c6e00-624b-4020-8261-ce43d0acc84a.png" width="500" height="300">
 
 
