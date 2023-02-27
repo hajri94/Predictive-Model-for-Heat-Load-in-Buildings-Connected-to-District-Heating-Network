@@ -18,6 +18,7 @@ We clone the github repository in Google Colaboratory ([Google-Colab](https://co
 Go to **File** ==> **Open Notebook** 
 
 <img src="https://user-images.githubusercontent.com/82321097/221584844-62e71e5a-3740-47eb-a992-b902dc987463.png" width="500" height="300">
+
 ## Step2 : 
 
 
