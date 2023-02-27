@@ -13,5 +13,5 @@ In this work we investigate the heat load patterns in one building using multi-s
 7. [Model Optimization to Predict the Heat Load](#Model-Optimization-to-Predict-the-Heat-Load)
 8. [Conclusion](#Conclusion)
 # Installation
-We clone the github repository in Google Colaboratory [Google-Colab]([https://www.google.com](https://colab.research.google.com/)). A hosted jupyter notebook service that allow us to  write and execute arbitrary code through browser.  
+We clone the github repository in Google Colaboratory [Google-Colab]((https://colab.research.google.com/)). A hosted jupyter notebook service that allow us to  write and execute arbitrary code through browser.  
 
