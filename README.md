@@ -17,6 +17,7 @@ We clone the github repository in Google Colaboratory ([Google-Colab](https://co
 ## Step1 : 
 Go to **File** ==> **Open Notebook** 
 
-![image](https://user-images.githubusercontent.com/82321097/221583975-b5559170-729d-4d08-aaae-1c3b24bfeecc.png)
+![Screenshot797](https://user-images.githubusercontent.com/82321097/221584844-62e71e5a-3740-47eb-a992-b902dc987463.png)
+
 
 
