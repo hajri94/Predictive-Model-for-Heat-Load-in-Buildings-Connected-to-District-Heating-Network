@@ -36,5 +36,4 @@ The sub-network of the district heating covers 42 substations (buildings), locat
 Data taken from the [weather-station](https://meteo.physic.ut.ee/?lang=en), located in Tartu University (Estonia), have 15-minute frequency basis. The dataset related to the weather station comprise the outdoor temperature, wind speed(m/s), wind direction, irradiation flux(W/m2) and calendar data. 
 
 # Data Preprocessing
-
-The data preprocessing is an important step since it indicates whether we have a bad data resulted from experiment that may have not run-in proper way
+The data preprocessing is an important step since it indicates whether we have a bad data resulted from experiment that may have not run-in proper way.
