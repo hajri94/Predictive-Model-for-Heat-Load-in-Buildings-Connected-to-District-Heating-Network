@@ -43,5 +43,5 @@ We go to Google Colab notebook we select the file **Organized Data/Scripts/Outli
 
 This source code is composed of two sections: 
  * Data Preprocessing (before implementing the outlier detection and imputation process) : where we do few steps in order to combine the weather data and heat load data into a single dataset
-* Implementing the outlier detection and imputation process : in this section we perform the identification of outliers along with the imputation process*. (*where we fill  the heat load missing values after we remove the outliers). 
+* Implementing the outlier detection and imputation process : in this section we perform the identification of outliers along with the imputation process. (Imputation Process: where we fill  the heat load missing values after we remove the outliers). 
 
