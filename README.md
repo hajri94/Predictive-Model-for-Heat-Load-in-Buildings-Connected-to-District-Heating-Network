@@ -33,7 +33,7 @@ The sources of our data come from two locations: district heating substations an
 
 The sub-network of the district heating covers 42 substations (buildings), located in Tartu (Estonia). The datasets were collected from each substation. We attached, in each building, an energy smart meter ([Kamstrup](https://www.kamstrup.com/en-en/heat-solutions/meters-devices)) that measures constantly different variables represented in heat load (kW), volumetric flow rate(m3/h), and five different supply and return temperatures(°C). The device sends the real time measured data to GREN, the operator responsible for the district heating. 
 
-Data taken from the weather station, located in ([The-University-of-Tartu](https://meteo.physic.ut.ee/?lang=en)) (Estonia) have 15-minute frequency basis. The dataset related to the weather station comprise the outdoor temperature, wind speed(m/s), wind direction, irradiation flux(W/m2) and calendar data. 
+Data taken from the ([weather-station](https://meteo.physic.ut.ee/?lang=en)), located in Tartu University  (Estonia) have 15-minute frequency basis. The dataset related to the weather station comprise the outdoor temperature, wind speed(m/s), wind direction, irradiation flux(W/m2) and calendar data. 
 
 From the heat meter original dataset, we have chosen the heat load variables and discarded the other parameter as it will not be included in our study.
 
