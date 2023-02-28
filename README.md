@@ -35,9 +35,4 @@ The sub-network of the district heating covers 42 substations (buildings), locat
 
 Data taken from the [weather-station](https://meteo.physic.ut.ee/?lang=en), located in Tartu University (Estonia), have 15-minute frequency basis. The dataset related to the weather station comprise the outdoor temperature, wind speed(m/s), wind direction, irradiation flux(W/m2) and calendar data. 
 
-From the heat meter original dataset, we have chosen the heat load variables and discarded the other parameter as it will not be included in our study.
-
-From the weather station dataset, we have selected the outdoor temperature and the solar irradiation since it has been proven in different studies the high correlation between these two parameters with the heat load. 
- 
- Before doing the coupling process, where the weather data and heat load are combined into a single dataset, we resample the weather data from 15 min to hour frequency. Thus, we obtain 7680 rows indicating every hour in the year.  
 
