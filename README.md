@@ -41,9 +41,7 @@ The data preprocessing is an important step since it indicates whether we have a
 We go to Google Colab notebook we select the file **Organized Data/Scripts/Outlier detection & repair.ipynb** 
 <img src="https://user-images.githubusercontent.com/82321097/221982316-b5e967cc-be45-479e-acfc-30cd1f72533c.png" width="500" height="300">
 
-
-
-
 This source code is composed of two sections: 
  * Data Preprocessing (before implementing the outlier detection and imputation process) : where we do few steps in order to combine the weather data and heat load data into a single dataset
 * Implementing the outlier detection and imputation process : in this section we perform the identification of outliers along with the imputation process. (where we fill  the heat load missing values after we remove the outliers). 
+
