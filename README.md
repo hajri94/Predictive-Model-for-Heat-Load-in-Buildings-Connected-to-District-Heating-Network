@@ -37,3 +37,4 @@ Data taken from the [weather-station](https://meteo.physic.ut.ee/?lang=en), loca
 
 # Data Preprocessing
 
+The data preprocessing is an important step since it indicates whether we have a bad data resulted from experiment that may have not run-in proper way
