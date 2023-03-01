@@ -58,6 +58,6 @@ We go to Google Colab notebook, we select the file **Organized Data/Scripts/Heat
 
 This source code is composed of two sections:
 
-*Load Assessment & Graphic exploration (Full year) : an initial analysis of the available dataset for the full year is performed with an identification of heat load patterns
+ *Load Assessment & Graphic exploration (Full year) : an initial analysis of the available dataset for the full year is performed with an identification of heat load patterns
 
-*Load Assessment & Graphic exploration (Winter term) : an initial analysis of the winter term dataset is performed with an identification of heat load patterns. (the winter term dataset is extracted from the available full year dataset)
+ *Load Assessment & Graphic exploration (Winter term) : an initial analysis of the winter term dataset is performed with an identification of heat load patterns. (the winter term dataset is extracted from the available full year dataset)
