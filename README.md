@@ -91,4 +91,6 @@ We go to Google Colab notebook, we select one of these two files:
 
   :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_winter.ipynb** : This file is dedicated for the models of the winter term. 
   
-  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_shoulder** : This file is dedicated for the models of the shoulder term.  
+  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_shoulder** : This file is dedicated for the models of the shoulder term. 
+  
+  For both two files the source code is composed of : 
