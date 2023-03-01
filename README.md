@@ -9,9 +9,10 @@ In this work we investigate the heat load patterns in one building using multi-s
 3. [Data Sources](#Data-Sources)
 4. [Data Preprocessing](#Data-Preprocessing)
 5. [Load Assessment and Graphic Exploration](#Load-Assessment-and-Graphic-Exploration)
-6. [Model Evaluation To characterize The Heat Load](#Model-Evaluation-To-characterize-The-Heat-Load)
-7. [Model Optimization to Predict the Heat Load](#Model-Optimization-to-Predict-the-Heat-Load)
-8. [Conclusion](#Conclusion)
+6. [Data Segmentation](#Data-Segmentation)
+7. [Model Evaluation To characterize The Heat Load](#Model-Evaluation-To-characterize-The-Heat-Load)
+8. [Model Optimization to Predict the Heat Load](#Model-Optimization-to-Predict-the-Heat-Load)
+9. [Conclusion](#Conclusion)
 # Installation
 We clone the github repository in Google Colaboratory ([Google-Colab](https://colab.research.google.com)). A hosted jupyter notebook service that allow us to  write and execute arbitrary code through browser.  
 ## Step1 : 
@@ -66,7 +67,7 @@ In the Github repository we go to Organized data ==> Select the folder word file
 
 In this word file we will find all the outputs and graphs regarding the load profile of the building along with a detail analysis of the heat load patterns.
 
-# Model Evaluation To characterize The Heat Load
+# Data Segmentation
 
 ```mermaid
 graph TD;
