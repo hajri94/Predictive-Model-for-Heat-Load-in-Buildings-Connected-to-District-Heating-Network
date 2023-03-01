@@ -70,8 +70,8 @@ In this word file we will find all the outputs and graphs regarding the load pro
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Winter Term-->Workdays;
+    Winter Term-->Weekends;
+    Shoulder Term-->Workdays;
+    Shoulder Term-->Weekends;
 ```
