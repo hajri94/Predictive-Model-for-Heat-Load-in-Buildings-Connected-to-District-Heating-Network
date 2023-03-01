@@ -89,4 +89,5 @@ In this part we explain the overall relationship between the predictors and the 
 
 We go to Google Colab notebook, we select one of these two files: 
 
-  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_winter.ipynb**
+  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_winter.ipynb** : This file is dedicated for the models of the winter term. 
+  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_shoulder** : This file is dedicated for the models of the shoulder term.  
