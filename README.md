@@ -88,4 +88,5 @@ graph TD;
 In this part we explain the overall relationship between the predictors and the outcome variable, and at what settings the characterization of heat demand can deliver acceptable performance.
 
 We go to Google Colab notebook, we select one of these two files: 
+
 ** Organized Data/Scripts/Model Evaluation To characterize The Heat Load_winter.ipynb
