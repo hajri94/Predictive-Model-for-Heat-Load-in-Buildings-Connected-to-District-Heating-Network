@@ -72,8 +72,6 @@ In this word file we will find all the outputs and graphs regarding the load pro
 graph TD;
     Winter-Term-->Workdays;
     Winter-Term-->Weekends;    
-    Workdays-->Model-(A);    
-    Winter-Term-->Weekends
-    Weekends-->Model-(B)
+    Workdays-->Model-(A);        
 ```
  
