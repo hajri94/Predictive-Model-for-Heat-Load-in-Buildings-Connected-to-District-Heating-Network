@@ -73,5 +73,4 @@ graph TD;
     Winter-Term-->Workdays;
     Winter-Term-->Weekends;    
     Workdays-->Model-(A);
-    Weekends-->Model-(B);
-```
+ ```
