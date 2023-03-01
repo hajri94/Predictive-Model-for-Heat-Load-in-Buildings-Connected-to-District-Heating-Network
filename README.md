@@ -71,6 +71,5 @@ In this word file we will find all the outputs and graphs regarding the load pro
 ```mermaid
 graph TD;
     Winter-Term-->Workdays;
-    Winter-Term-->Weekends;
-    
+    Winter-Term-->Weekends;    
 ```
