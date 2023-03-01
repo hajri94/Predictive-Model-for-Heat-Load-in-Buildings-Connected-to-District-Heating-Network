@@ -74,5 +74,6 @@ graph TD;
     Winter-Term-->Weekends;    
     Workdays-->Model-A;        
     Weekends-->Model-B;
+    Shoulder-Term-->Workdays
 ```
  
