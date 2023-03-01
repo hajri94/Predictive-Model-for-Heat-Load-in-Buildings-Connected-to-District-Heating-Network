@@ -55,5 +55,6 @@ This **word file** has a detailed explanation regarding the techniques used in a
 Plotting time series values for the selected building dataset allow to identify different patterns such as trends and seasonality. Moreover, it enables many features of the data. In particular, we can highlight the changes over time and recognize unusual observations.
 
 We go to Google Colab notebook, we select the file **Organized Data/Scripts/Heat Load Assessment.ipynb** 
+
 This source code is composed of two sections:
 
