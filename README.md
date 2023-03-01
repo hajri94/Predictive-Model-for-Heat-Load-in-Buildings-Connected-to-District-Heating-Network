@@ -72,6 +72,5 @@ In this word file we will find all the outputs and graphs regarding the load pro
 graph TD;
     Winter-Term-->Workdays;
     Winter-Term-->Weekends;
-    Shoulder-Term-->Workdays;
-    Shoulder-Term-->Weekends;
+    
 ```
