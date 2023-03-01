@@ -67,3 +67,11 @@ In the Github repository we go to Organized data ==> Select the folder word file
 In this word file we will find all the outputs and graphs regarding the load profile of the building along with a detail analysis of the heat load patterns.
 
 # Model Evaluation To characterize The Heat Load
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
