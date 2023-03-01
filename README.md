@@ -76,3 +76,10 @@ graph TD;
     Weekends-->Model-B;
 ```
  
+```mermaid
+graph TD;
+    Shoulder-Term-->Workdays;
+    Shoulder-Term-->Weekends;    
+    Workdays-->Model-C;        
+    Weekends-->Model-D;
+```
