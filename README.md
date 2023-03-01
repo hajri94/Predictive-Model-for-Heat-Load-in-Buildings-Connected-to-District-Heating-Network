@@ -70,6 +70,7 @@ In this word file we will find all the outputs and graphs regarding the load pro
 # Data Segmentation
 
 The data will be limited only to winter term (December to February) and shoulder season (March - May + Sep - Nov). The summer term will be excluded in this study to avoid the excessive relevance of period that have low heat load. Furthermore, the workdays and weekends were separated in order to remove the intraweek seasonality.
+
 ```mermaid
 graph TD;
     Winter-Term-->Workdays;
