@@ -77,7 +77,6 @@ graph TD;
     Workdays-->Model-A;        
     Weekends-->Model-B;
 ```
- 
 ```mermaid
 graph TD;
     Shoulder-Term-->Workdays;
