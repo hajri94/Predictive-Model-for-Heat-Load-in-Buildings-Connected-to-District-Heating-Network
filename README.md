@@ -98,3 +98,7 @@ We go to Google Colab notebook, we select one of these two files:
 * Pre Modelling Step : We perform a few steps to create and organize the dataframe to be used in the modelling process. 
 * Modelling Step (ARX Model) : We fit our model used **the Ordinary Least Square (OLS)** and apply the feature selection with variance thresholding to  extract the significant parameters.
 * Model Quality ==> Graphical Residual Analysis: Several plots were represented to check if our assumption were reasonable and whether the choice of our model were appropriate or not.
+
+In the Github repository we go to **Organized data** ==> Select the folder **word files**==>  Select the file **Model Evaluation To characterize The Heat Load.docx**
+
+In this word file  the best estimates for the coefficient to fit the each model have been assessed. A summary statistic table was presented in order to evaluate how the regression models fits the data. Moreover, the graphical residual plots are delivered. 
