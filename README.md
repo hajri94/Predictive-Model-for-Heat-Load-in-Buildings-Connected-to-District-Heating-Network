@@ -122,3 +122,5 @@ For both two files the source code is composed of the following sections :
 In the Github repository we go to **Organized data** ==> Select the folder **word files** ==> Select the folder **Model Optimization to predict the heat load** ==> Select the file **Data Scenarios and Optimal Parameters to Predict the Heat load.docx** 
 
 The word file delivers the results of different evaluation metrics when evaluating the effect of including various type of input parameters.  
+
+We select the file **Model Selection and Seasonal performance variation.docx**
