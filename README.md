@@ -127,3 +127,5 @@ We select the file **Model Selection and Seasonal performance variation.docx**
 
 In this word file we explain how did we  select and test the  models. Also we explain the seasonal performance variation of the heat load throughout the year for each model.
 # Conclusion
+We have presented a data driven model for the characterization and prediction of heat demand in buildings connected to district heating (DH) networks.
+Our new model is applied in a short-term heat load forecast with high temporal resolution (hourly and daily timestamp) for different buildings relying on weather and calendar information.
