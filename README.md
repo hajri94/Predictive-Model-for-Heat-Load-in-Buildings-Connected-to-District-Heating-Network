@@ -124,3 +124,4 @@ In the Github repository we go to **Organized data** ==> Select the folder **wor
 The word file delivers the results of different evaluation metrics when evaluating the effect of including various type of input parameters.  
 
 We select the file **Model Selection and Seasonal performance variation.docx**
+In this word file we explain how did we  select and test the  models. Also we explain the seasonal performance variation of the heat load throughout the year for each model.
