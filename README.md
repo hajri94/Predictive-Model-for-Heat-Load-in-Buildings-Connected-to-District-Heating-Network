@@ -95,4 +95,6 @@ We go to Google Colab notebook, we select one of these two files:
   
   For both two files the source code is composed of the following sections : 
 
-* Pre modelling step : 
+* Pre Modelling Step : We perform a few steps to create and organize the dataframe to be used in the modelling process. 
+* Modelling Step (ARX Model) : We fit our model used **the Ordinary Least Square (OLS)** and apply the feature selection with variance thresholding to  extract the significant parameters.
+* Model Quality ==> Graphical Residual Analysis: Several plots were represented to check if our assumption were reasonable and whether the choice of our model were appropriate or not.
