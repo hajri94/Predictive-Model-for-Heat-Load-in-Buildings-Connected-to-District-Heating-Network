@@ -115,8 +115,6 @@ We go to Google Colab notebook, we select one of these two files:
 
 For both two files the source code is composed of the following sections : 
 
-Data Scenarios and optimal parameters to predict the heat load : We recalibrate the model parameters for prediction purpose by evaluating the effect of including various type of input parameters. 
-
-Comparison of Models performance with Different Data Scenarios : we choose the  best data scenario that generate more accurate prediction.
-
-Seasonal Performance Variations : We evaluate the performance of the model in each month. 
+* Data Scenarios and optimal parameters to predict the heat load : We recalibrate the model parameters for prediction purpose by evaluating the effect of including various type of input parameters. 
+* Comparison of Models performance with Different Data Scenarios : we choose the  best data scenario that generate more accurate prediction.
+* Seasonal Performance Variations : We evaluate the performance of the model in each month. 
