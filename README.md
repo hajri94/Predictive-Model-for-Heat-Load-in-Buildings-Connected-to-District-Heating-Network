@@ -63,7 +63,7 @@ This source code is composed of two sections:
 
  * Load Assessment & Graphic exploration (Winter term) : an initial analysis of the winter term dataset is performed with an identification of heat load patterns. (the winter term dataset is extracted from the available full year dataset)
 
-In the Github repository we go to Organized data ==> Select the folder word files==> Heat load assessment&Graphic exploration.docx
+In the Github repository we go to **Organized data** ==> Select the folder **word files**==> **Heat load assessment&Graphic exploration.docx**
 
 In this word file we will find all the outputs and graphs regarding the load profile of the building along with a detail analysis of the heat load patterns.
 
