@@ -104,3 +104,5 @@ In the Github repository we go to **Organized data** ==> Select the folder **wor
 In this word file  the best estimates for the coefficient to fit the each model have been assessed. A summary statistic table was presented in order to evaluate how the regression models fits the data. Moreover, the graphical residual plots are delivered. 
 
 # Model Optimization to Predict the Heat Load
+
+In this part, we calibrate our models for prediction purpose. We evaluate the effect of including various type of input parameters to improve the forecast accuracy of the models.
