@@ -105,4 +105,4 @@ In this word file  the best estimates for the coefficient to fit the each model 
 
 # Model Optimization to Predict the Heat Load
 
-In this part, we calibrate our models for prediction purpose. We evaluate the effect of including various type of input parameters to improve the forecast accuracy of the models.
+We calibrate our models for prediction purpose. We evaluate the effect of including various type of input parameters to improve the forecast accuracy of the models.
