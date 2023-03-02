@@ -91,7 +91,7 @@ We go to Google Colab notebook, we select one of these two files:
 
   :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_winter.ipynb** : This file is dedicated for the models of the winter term. 
   
-  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_shoulder** : This file is dedicated for the models of the shoulder term. 
+  :thong_sandal: **Organized Data/Scripts/Model Evaluation To characterize The Heat Load_shoulder.ipynb** : This file is dedicated for the models of the shoulder term. 
   
   For both two files the source code is composed of the following sections : 
 
@@ -106,3 +106,9 @@ In this word file  the best estimates for the coefficient to fit the each model 
 # Model Optimization to Predict the Heat Load
 
 We calibrate our models for prediction purpose. We evaluate the effect of including various type of input parameters to improve the forecast accuracy of the models.
+
+We go to Google Colab notebook, we select one of these two files:
+
+:thong_sandal: **Organized Data/Scripts/Model optimization to predict the heat load_winter.ipynb** : This file is dedicated for the models of the winter term.
+
+:thong_sandal: **Organized Data/Scripts/Model optimization to predict the heat load_shoulder.ipynb** : This file is dedicated for the models of the shoulder term.
