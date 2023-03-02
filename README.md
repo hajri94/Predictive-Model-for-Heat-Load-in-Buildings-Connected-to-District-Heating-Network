@@ -119,4 +119,4 @@ For both two files the source code is composed of the following sections :
 * Comparison of Models performance with Different Data Scenarios : we choose the  best data scenario that generate more accurate prediction.
 * Seasonal Performance Variations : We evaluate the performance of the model in each month. 
 
-In the Github repository we go to Organized data ==> Select the folder word files ==> Select the folder Model Optimization to predict the heat load ==> Select the file Data Scenarios and Optimal Parameters to Predict the Heat load.docx 
+In the Github repository we go to **Organized data** ==> Select the folder **word files** ==> Select the folder **Model Optimization to predict the heat load** ==> Select the file **Data Scenarios and Optimal Parameters to Predict the Heat load.docx** 
