@@ -113,4 +113,4 @@ We go to Google Colab notebook, we select one of these two files:
 
 :thong_sandal: **Organized Data/Scripts/Model optimization to predict the heat load_shoulder.ipynb** : This file is dedicated for the models of the shoulder term.
 
-In the Github repository we go to **Organized data** ==> Select the folder **word files**==>  Select the file **Model Evaluation To characterize The Heat Load.docx**
+
