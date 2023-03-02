@@ -102,3 +102,5 @@ We go to Google Colab notebook, we select one of these two files:
 In the Github repository we go to **Organized data** ==> Select the folder **word files**==>  Select the file **Model Evaluation To characterize The Heat Load.docx**
 
 In this word file  the best estimates for the coefficient to fit the each model have been assessed. A summary statistic table was presented in order to evaluate how the regression models fits the data. Moreover, the graphical residual plots are delivered. 
+
+# Model Optimization to Predict the Heat Load
